@@ -1,0 +1,7 @@
+{
+  "name": "A One Beauty Parlour",
+  "description": "Premium beauty, hair, makeup and bridal services in Indirapuram, Ghaziabad since 2014. Professional ladies salon.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
